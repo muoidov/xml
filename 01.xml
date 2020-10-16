@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="02.xsl"?>
+<book_s>
+<book>
+	<title>
+		Lap trinh php
+	</title>
+	<author>Zed</author>
+	<pages>500</pages>
+	<weight units="gram">600</weight>
+	<image src="php.png" />
+</book>
+<c><![CDATA[asdasd]]></c>
+<book>
+	<title>
+		Lap trinh c
+	</title>
+	<author>akali</author>
+	<pages>401</pages>
+	<weight units="gram">401</weight>
+	<image src="php.png" />
+</book><book>
+	<title>
+		Lap trinh u
+	</title>
+	<author>pan</author>
+	<pages>200</pages>
+	<weight units="gram">400</weight>
+	<image src="php.png" />
+</book></book_s>
+<!--commetn o day-->

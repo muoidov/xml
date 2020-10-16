@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="02.xsl"?>
+<book_s>
+	<book id="11">
+	<title>Lap trinh php</title>
+	<author>Zed</author>
+	<pages>500</pages>
+	<weight units="gram">600</weight>
+	<image src="php.png" />
+	<price>
+		<real>80</real>
+		<saleoff>30</saleoff>
+	</price>
+	<shipping>
+		<US>1.3</US>
+		<EU>2.3</EU>
+		<VN>1</VN>
+	</shipping>
+	
+	</book>
+		<book id="12">
+	<title>Lap trinh C</title>
+	<author>Stu</author>
+	<pages>200</pages>
+	<weight units="gram">400</weight>
+	<image src="php.png" />
+	<price>
+		<real>33.5</real>
+		<saleoff>29</saleoff>
+	</price>
+	<shipping>
+		<US>1.3</US>
+		<EU>2.3</EU>
+		<VN>1</VN>
+	</shipping>
+	</book>
+		<book id="13">
+	<title>Lap trinh Pthon</title>
+	<author>Ket</author>
+	<pages>300</pages>
+	<weight units="gram">100</weight>
+	<image src="php.png" />
+	<price>
+		<real>36.5</real>
+		<saleoff>10</saleoff>
+	</price>
+	<shipping>
+		<US>1.3</US>
+		<EU>2.3</EU>
+		<VN>1</VN>
+	</shipping>
+	</book>
+</book_s>

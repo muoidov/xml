@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xsl:stylesheet xmlns:xsl="http://google.com.vn" version="1.0">
+	<xsl:template match="/">
+	<html> 
+		<head>Xsl ttra</head>
+	</html>
+	<body>
+		<h1>Khoa hoc</h1>
+		<h3>Nhung vao</h3>
+	</body>
+	</xsl>
+</xsl:stylesheet>
